@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est [Ton pseudo]
+# 👋 Salut, moi c’est Nico.
 
 💻 Développeur Web Full Stack en apprentissage  
 ⚛️ React • Node.js • TypeScript • SQL • HTML • CSS  
@@ -35,13 +35,15 @@
 
 ## 🚀 Projets personnels
 
-### 🃏 Fantasy Card Game
+### 🃏 Fantasy Card Game ( en cours )
 Un jeu de cartes inspiré de **Magic: The Gathering Arena**.  
 Objectif : créer un système de combat stratégique avec des cartes, effets et synergies.
+[Voir le projet](https://github.com/Nicolas82200/fantasy-card-game)
 
-### 📚 Wiki Baldur’s Gate 3
+### 📚 Wiki Baldur’s Gate 3 ( en cours )
 Un site type wiki dédié à **BG3**, regroupant personnages, classes, objets et lore.  
 Objectif : centraliser les informations du jeu de façon claire et navigable.
+[Voir le projet](https://github.com/Nicolas82200/BG3)
 
 ---
 
@@ -50,10 +52,12 @@ Objectif : centraliser les informations du jeu de façon claire et navigable.
 ### 🎬 Clap’n Pop
 Application web pour tester sa culture cinématographique.  
 👉 Quiz, défis et classement entre utilisateurs.
+[Voir le projet](https://github.com/ChickenCodeSchool/Js-Crew-vert-wildwalker-P2-g1)
 
 ### 🍽️ Keskonmange
 Application pour aider à décider quoi manger.  
 👉 Suggestions aléatoires, filtres et idées de repas simples.
+[Voir le projet](https://github.com/bosilaugusta-hue/keskonmange)
 
 ---
 
@@ -76,9 +80,8 @@ Application pour aider à décider quoi manger.
 
 ## 📫 Contact
 
-- 📧 Email : [ton email]
-- 💼 LinkedIn : [ton lien]
-- 🌐 Portfolio : [si tu en as un]
+- 📧 Email : nicolas.semenadisse@hotmail.com
+- 💼 LinkedIn : https://www.linkedin.com/in/nicolas-semenadisse-55b5b4351/?skipRedirect=true
 
 ---
 

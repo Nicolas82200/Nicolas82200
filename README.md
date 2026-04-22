@@ -63,9 +63,9 @@ Application pour aider à décider quoi manger.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Nicolas82200&show_icons=true&theme=tokyonight)
 
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight)
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas82200&layout=compact&theme=tokyonight)
 
 ---
 

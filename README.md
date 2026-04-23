@@ -81,7 +81,7 @@ Application pour aider à décider quoi manger.
 ## 📫 Contact
 
 - 📧 Email : nicolas.semenadisse@hotmail.com
-- 💼 LinkedIn : https://www.linkedin.com/in/nicolas-semenadisse-55b5b4351/?skipRedirect=true
+- 💼 LinkedIn : https://www.linkedin.com/in/semenadisse-nicolas/
 
 ---
 

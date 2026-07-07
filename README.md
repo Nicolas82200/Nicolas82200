@@ -117,7 +117,7 @@ Application web permettant de trouver rapidement des idées de repas selon diff�
 # 📊 GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nicolas82200&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nicolas82200&show_icons=true&theme=tokyonight"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas82200&layout=compact&theme=tokyonight"/>
 </p>
 

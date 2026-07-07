@@ -61,11 +61,15 @@ Application pour aider à décider quoi manger.
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Nicolas82200&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+## 📊 GitHub
 
-![Langages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nicolas82200&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Nicolas82200&show_icons=true&theme=tokyonight)
 
+![Streak](https://streak-stats.demolab.com?user=Nicolas82200&theme=tokyonight)
+
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas82200&layout=compact&theme=tokyonight)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Nicolas82200&theme=tokyonight&no-frame=true&margin-w=10)
 ---
 
 ## 📈 En ce moment
